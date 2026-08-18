@@ -80,3 +80,16 @@ a {
 }
 
 /* All above is the 1st section of the web page which includes the "Header" and the "Hero" section */
+
+.information {
+    display: flex;
+    justify-content: center;
+    font-family: roboto;
+}
+
+.image-info {
+    display: flex;
+    justify-content: center;
+    font-family: roboto;
+    gap: 16px;
+}
