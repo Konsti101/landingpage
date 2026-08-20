@@ -101,4 +101,12 @@ a {
     gap: 50px;
     flex-wrap: wrap;
 }
+
+.img-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 170px;
+}
+
 }
