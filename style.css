@@ -109,4 +109,14 @@ a {
     width: 170px;
 }
 
+.img-container img {
+    width: 170px;
+    display: flex;
+    align-self: center;
+    border-width: 3px;
+    border-style: solid;
+    border-color: #3882F6;
+    border-radius: 8px;
+}
+
 }
