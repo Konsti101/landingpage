@@ -81,6 +81,10 @@ a {
 
 /* All above is the 1st section of the web page which includes the "Header" and the "Hero" section */
 
+.wrapper-two {
+    padding-bottom: 54px;
+}
+
 .information {
     display: flex;
     justify-content: center;
