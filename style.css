@@ -119,4 +119,9 @@ a {
     border-radius: 8px;
 }
 
+.img-container p {
+    text-align: center;
+    display: flex;
+}
+
 }
