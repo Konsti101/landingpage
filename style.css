@@ -184,3 +184,14 @@ a {
     display: flex;
 }
 
+.button-container button {
+    align-self: flex-start;
+    background-color: #3882F6;
+    border-radius: 5px;
+    font-weight: bold;
+    border: 2px solid white;
+    padding: 4px 16px;
+    font-size: 14px;
+    color: #F9FAF8;
+}
+
