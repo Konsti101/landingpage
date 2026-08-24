@@ -149,3 +149,15 @@ a {
     font-family: roboto;
     font-weight: bold;
 }
+
+.call-action {
+    display: flex;
+    flex-direction: row;
+    background-color: #3882F6;
+    padding: 30px 50px;
+    margin: 50px 100px;
+    border-radius: 6px;
+    justify-content: space-between;
+    align-items: center;
+}
+
