@@ -195,3 +195,12 @@ a {
     color: #F9FAF8;
 }
 
+.footer {
+    flex-direction: row;
+    display: flex;
+    justify-content: center;
+    background-color: #1F2937;
+    color: #F9FAF8;
+    padding: 24px;
+    font-family: roboto;
+}
